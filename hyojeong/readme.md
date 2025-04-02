@@ -1,4 +1,4 @@
-# Air_Study
+# Air_Study_hyojeong
 ## 📖 스터디 목적
 
 - Object Detection 중에서도 MOT(Multiple object tracking) 문제에 대해 공부하고자 함.
