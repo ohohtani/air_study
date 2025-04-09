@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | 양시헌 | ㅇㅇㅇㅇ  |  |
 | 양형준 |  |  |
-| 이상백 |  |  |
+| 이상백 | 명명된 엔티티 음성 인식 오류의 검색 증강 수정 | https://arxiv.org/abs/2409.06062 |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING | https://ieeexplore.ieee.org/abstract/document/7533003 |
 
 <br>
