@@ -27,7 +27,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 |  |  |
+| 양시헌 | ㅇㅇㅇㅇ  |  |
 | 양형준 |  |  |
 | 이상백 |  |  |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING | https://ieeexplore.ieee.org/abstract/document/7533003 |
