@@ -27,7 +27,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 | 신용카드 사기 탐지 개선을 위한 기능 엔지니어링을 갖춘 신경망 앙상블 | https://ieeexplore.ieee.org/document/9698195 |
+| 양시헌 | 신용카드 사기 탐지 개선을 위한 앙상블 | https://ieeexplore.ieee.org/document/9698195 |
 | 양형준 |  |  |
 | 이상백 | 명명된 엔티티 음성 인식 오류의 검색 증강 수정 | https://arxiv.org/abs/2409.06062 |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING | https://ieeexplore.ieee.org/abstract/document/7533003 |
