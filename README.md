@@ -32,6 +32,15 @@
 | 이상백 | 명명된 엔티티 음성 인식 오류의 검색 증강 수정 | https://arxiv.org/abs/2409.06062 |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING | https://ieeexplore.ieee.org/abstract/document/7533003 |
 
+- 4주차 - 25.04.16
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 | 연합 학습 : 기회와 과제 | https://arxiv.org/abs/2101.05428 |
+| 양형준 |  |  |
+| 이상백 |  |  |
+| 류효정 |  |  |
+
 <br>
 
 ## 📖 스터디 방식
