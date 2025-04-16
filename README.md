@@ -36,7 +36,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 | 연합 학습 : 기회와 과제 | https://arxiv.org/abs/2101.05428 |
+| 양시헌 | Federated Learning: Opportunities and Challenges | https://arxiv.org/abs/2101.05428 |
 | 양형준 |  |  |
 | 이상백 |  |  |
 | 류효정 |  |  |
