@@ -39,6 +39,15 @@
 | 양시헌 | Federated Learning: Opportunities and Challenges | https://arxiv.org/abs/2101.05428 |
 | 양형준 |  |  |
 | 이상백 |  |  |
+| 류효정 | SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC |  |
+
+- 5주차 - 25.05.02
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 |  |  |
+| 양형준 |  |  |
+| 이상백 |  |  |
 | 류효정 |  |  |
 
 <br>
