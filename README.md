@@ -39,7 +39,16 @@
 | 양시헌 | Federated Learning: Opportunities and Challenges | https://arxiv.org/abs/2101.05428 |
 | 양형준 |  |  |
 | 이상백 |  |  |
-| 류효정 |  |  |
+| 류효정 | SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC | https://ieeexplore.ieee.org/document/8296962 |
+
+- 5주차 - 25.05.02
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 |  |  |
+| 양형준 |  |  |
+| 이상백 |  |  |
+| 류효정 | TrackFormer: Multi-Object Tracking with Transformers | https://ieeexplore.ieee.org/document/9879668 |
 
 <br>
 
