@@ -7,8 +7,11 @@
 
 ## 📖 주차별 학습내용
 
-| 주차 | 일자 | 주제 | 링크 |
-| --- | --- | --- | --- |
-| 2주차 | 25.04.09 | 논문주제 |  |
+| 주차 | 일자 | 주제 |
+| --- | --- | --- |
+| 3주차 | 25.04.09 | SIMPLE ONLINE AND REALTIME TRACKING |
+| 4주차 | 25.04.16 | SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC |
+| 5주차 | 25.05.02 | TrackFormer: Multi-Object Tracking with Transformers |
+| 6주차 | 25.05. | 논문주제 |
 
 <br>
