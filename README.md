@@ -45,7 +45,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 |  |  |
+| 양시헌 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ |  |
 | 양형준 |  |  |
 | 이상백 |  |  |
 | 류효정 | TrackFormer: Multi-Object Tracking with Transformers | https://ieeexplore.ieee.org/document/9879668 |
