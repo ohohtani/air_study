@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | 양시헌 | Federated Learning: Opportunities and Challenges | https://arxiv.org/abs/2101.05428 |
 | 양형준 |  |  |
-| 이상백 |  |  |
+| 이상백 | N-best 리랭킹을 사용한 야생에서의 다국어 ASR 향상 | https://arxiv.org/pdf/2409.18428 |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC | https://ieeexplore.ieee.org/document/8296962 |
 
 - 5주차 - 25.05.02
@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | 양시헌 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ |  |
 | 양형준 |  |  |
-| 이상백 |  |  |
+| 이상백 | Speech to Speech Translation with Translatotron | https://arxiv.org/abs/2502.05980 |
 | 류효정 | TrackFormer: Multi-Object Tracking with Transformers | https://ieeexplore.ieee.org/document/9879668 |
 
 <br>
