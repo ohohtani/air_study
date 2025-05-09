@@ -45,10 +45,19 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ |  |
-| 양형준 |  |  |
+| 양시헌 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ <-이것머애요~~? |  |
+| 양형준 | - | - |
 | 이상백 | Speech to Speech Translation with Translatotron | https://arxiv.org/abs/2502.05980 |
 | 류효정 | TrackFormer: Multi-Object Tracking with Transformers | https://ieeexplore.ieee.org/document/9879668 |
+
+- 6주차 - 25.05.07
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 | 하루빨리 |  |
+| 양형준 | 채우시길 |  |
+| 이상백 | ^___^ |  |
+| 류효정 | TWO DECADES OF STATISTICAL LANGUAGE MODELING | https://ieeexplore.ieee.org/document/880083 |
 
 <br>
 
@@ -63,5 +72,4 @@
 
 ## 📖 스터디 규칙
 
-- 잇나?
-- 추천 바랍니다
+- 불참 시 커피 쏘기
