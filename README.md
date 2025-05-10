@@ -45,7 +45,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 | ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ <-이것머애요~~? |  |
+| 양시헌 | Be aware of overftting by hyperparameter optimization! | https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00934-w |
 | 양형준 | - | - |
 | 이상백 | Speech to Speech Translation with Translatotron | https://arxiv.org/abs/2502.05980 |
 | 류효정 | TrackFormer: Multi-Object Tracking with Transformers | https://ieeexplore.ieee.org/document/9879668 |
@@ -54,7 +54,7 @@
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
-| 양시헌 | 하루빨리 |  |
+| 양시헌 | Predicting Sleep Quality Using Lifelog Data with Deep Learning Techniques | https://ieeexplore.ieee.org/document/10826605 |
 | 양형준 | 채우시길 |  |
 | 이상백 | ^___^ |  |
 | 류효정 | TWO DECADES OF STATISTICAL LANGUAGE MODELING | https://ieeexplore.ieee.org/document/880083 |
