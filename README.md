@@ -41,7 +41,7 @@
 | 이상백 | N-best 리랭킹을 사용한 야생에서의 다국어 ASR 향상 | https://arxiv.org/pdf/2409.18428 |
 | 류효정 | SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC | https://ieeexplore.ieee.org/document/8296962 |
 
-- 5주차 - 25.05.02
+- 5주차 - 25.05.02  ( 양형준 불참 )
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
@@ -59,7 +59,7 @@
 | 이상백 | ^___^ |  |
 | 류효정 | TWO DECADES OF STATISTICAL LANGUAGE MODELING | https://ieeexplore.ieee.org/document/880083 |
 
-- 7주차 - 25.05.14
+- 7주차 - 25.05.14  ( 류효정 불참 ) 
 
 | 발표자 | 주제 | 링크 |
 | --- | --- | --- |
