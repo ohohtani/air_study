@@ -59,6 +59,15 @@
 | 이상백 | ^___^ |  |
 | 류효정 | TWO DECADES OF STATISTICAL LANGUAGE MODELING | https://ieeexplore.ieee.org/document/880083 |
 
+- 7주차 - 25.05.14
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 | Predicting Sleep Quality Using Lifelog Data with Deep Learning Techniques | https://ieeexplore.ieee.org/document/10826605 |
+| 양형준 | BLIP | https://arxiv.org/pdf/2201.12086 |
+| 이상백 | ^___^ |  |
+| 류효정 | - | - |
+
 <br>
 
 ## 📖 스터디 방식
