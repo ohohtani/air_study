@@ -59,6 +59,24 @@
 | 이상백 | ^___^ |  |
 | 류효정 | TWO DECADES OF STATISTICAL LANGUAGE MODELING | https://ieeexplore.ieee.org/document/880083 |
 
+- 7주차 - 25.05.14
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 | | |
+| 양형준 | Feature Pyramid Networks for Object Detection | http://arxiv.org/abs/1612.03144 |
+| 이상백 | | |
+| 류효정 | | |
+
+- 8주차 - 25.05.21
+
+| 발표자 | 주제 | 링크 |
+| --- | --- | --- |
+| 양시헌 | | |
+| 양형준 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | https://arxiv.org/abs/1612.00593 |
+| 이상백 | | |
+| 류효정 | | |
+
 <br>
 
 ## 📖 스터디 방식
